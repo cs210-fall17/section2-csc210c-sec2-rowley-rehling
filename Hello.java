@@ -15,10 +15,8 @@ public class Hello {
     }
 
     public static void goldLeader() {
-
         // Gold Leader should add a print statement that says "Loosen up!"
-    
-
+        println("Loosen up!");
     }
 
     public static void redLeader() {
